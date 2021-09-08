@@ -4,19 +4,19 @@
     "url": "https://nilead.com",
     "icon": "https://favicons.githubusercontent.com/nilead.com",
     "slug": "nilead",
-    "status": "down",
-    "uptime": "88.23%",
-    "uptimeDay": "88.23%",
-    "uptimeWeek": "88.23%",
-    "uptimeMonth": "88.23%",
-    "uptimeYear": "88.23%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "status": "up",
+    "uptime": "73.08%",
+    "uptimeDay": "73.08%",
+    "uptimeWeek": "73.08%",
+    "uptimeMonth": "73.08%",
+    "uptimeYear": "73.08%",
+    "time": 129,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {
-      "2021-09-08": 4
+      "2021-09-08": 12
     }
   }
 ]
