@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nilead.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Nilead/uptime/master/assets/logo-black-icon.svg
   name: Nilead Website and Services Status
   introTitle: You can check the current uptime status of our main website and services
   introMessage: All issues are automatically notified to our system admins and will be fixed as soon as possible.
