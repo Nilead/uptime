@@ -7,6 +7,8 @@ sites:
     url: https://nilead.com
   - name: Nilead Logger
     url: https://logger.mynilead.com:9502/status
+  - name: Nilead Tracker
+    url: https://tracker.mynilead.com:9501/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
