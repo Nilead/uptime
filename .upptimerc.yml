@@ -13,8 +13,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Nilead Website and Services Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: You can check the current uptime status of our main website and services
+  introTitle: You can check the current uptime status of our main website and services
+  introMessage: All issues are automatically notified to our system admins and will be fixed as soon as possible.
   navbar:
     - title: Nilead Status Monitor
       href: /
