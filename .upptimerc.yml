@@ -9,7 +9,9 @@ sites:
     url: https://logger.mynilead.com:9502/status
   - name: Nilead Tracker
     url: https://tracker.mynilead.com:9501/status
-
+  - name: Nilead Monitor
+    url: https://monitor.mynilead.com:9503/status
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
