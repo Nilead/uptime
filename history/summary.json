@@ -26,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/logger.mynilead.com",
     "slug": "nilead-logger",
     "status": "up",
-    "uptime": "88.44%",
+    "uptime": "88.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.44%",
+    "uptimeYear": "88.50%",
     "time": 201,
     "timeDay": 183,
     "timeWeek": 215,
@@ -64,11 +64,11 @@
     "icon": "https://favicons.githubusercontent.com/tracker.mynilead.com",
     "slug": "nilead-tracker",
     "status": "up",
-    "uptime": "91.02%",
+    "uptime": "91.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.15%",
-    "uptimeYear": "91.02%",
+    "uptimeYear": "91.07%",
     "time": 191,
     "timeDay": 180,
     "timeWeek": 189,
@@ -94,9 +94,9 @@
     "url": "https://monitor.mynilead.com:9503/status",
     "icon": "https://favicons.githubusercontent.com/monitor.mynilead.com",
     "slug": "nilead-monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +105,8 @@
     "timeWeek": 193,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-04": 0
+    }
   }
 ]
