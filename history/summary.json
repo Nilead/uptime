@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 142,
-    "timeDay": 40,
-    "timeWeek": 70,
-    "timeMonth": 99,
+    "timeDay": 83,
+    "timeWeek": 74,
+    "timeMonth": 97,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2023-01-19": 33,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "77.59%",
+    "uptime": "77.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.77%",
+    "uptimeYear": "66.49%",
     "time": 182,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2023-05-08": 66,
+      "2023-05-09": 69,
+      "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -172,15 +173,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "up",
-    "uptime": "93.58%",
+    "uptime": "93.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.60%",
+    "uptimeYear": "94.87%",
     "time": 172,
-    "timeDay": 85,
-    "timeWeek": 105,
-    "timeMonth": 149,
+    "timeDay": 63,
+    "timeWeek": 104,
+    "timeMonth": 143,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2023-02-12": 585,
@@ -202,8 +203,7 @@
       "2022-05-13": 1440,
       "2022-05-12": 1440,
       "2022-05-11": 1440,
-      "2022-05-10": 1440,
-      "2022-05-09": 1440
+      "2022-05-10": 1440
     }
   },
   {
@@ -212,7 +212,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "61.99%",
+    "uptime": "61.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -223,7 +223,8 @@
     "timeMonth": 0,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-05-08": 66,
+      "2023-05-09": 69,
+      "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -409,8 +410,7 @@
       "2022-05-13": 1440,
       "2022-05-12": 1440,
       "2022-05-11": 1440,
-      "2022-05-10": 1440,
-      "2022-05-09": 1440
+      "2022-05-10": 1440
     }
   }
 ]
