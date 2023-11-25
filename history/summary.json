@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 129,
-    "timeDay": 140,
-    "timeWeek": 113,
-    "timeMonth": 129,
+    "time": 128,
+    "timeDay": 95,
+    "timeWeek": 118,
+    "timeMonth": 127,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2023-07-10": 25,
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "69.50%",
+    "uptime": "69.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2023-11-24": 60,
+      "2023-11-25": 59,
+      "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
@@ -223,8 +224,7 @@
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
-      "2022-11-26": 1440,
-      "2022-11-25": 1440
+      "2022-11-26": 1440
     }
   },
   {
@@ -233,18 +233,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "down",
-    "uptime": "93.46%",
+    "uptime": "93.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.42%",
-    "uptimeYear": "95.04%",
+    "uptimeMonth": "65.14%",
+    "uptimeYear": "94.76%",
     "time": 169,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 158,
+    "timeMonth": 159,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2023-11-24": 60,
+      "2023-11-25": 59,
+      "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
@@ -275,18 +276,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "46.04%",
+    "uptime": "45.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "24.37%",
-    "time": 160,
+    "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-11-24": 60,
+      "2023-11-25": 59,
+      "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
@@ -561,8 +563,7 @@
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
-      "2022-11-26": 1440,
-      "2022-11-25": 1440
+      "2022-11-26": 1440
     }
   }
 ]
