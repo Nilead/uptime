@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 128,
-    "timeDay": 86,
-    "timeWeek": 97,
-    "timeMonth": 113,
+    "timeDay": 132,
+    "timeWeek": 105,
+    "timeMonth": 114,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2023-07-10": 25,
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "68.40%",
+    "uptime": "68.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2023-12-07": 62,
+      "2023-12-08": 63,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -223,8 +224,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1041,
       "2022-12-10": 445,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -233,15 +233,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "up",
-    "uptime": "92.53%",
+    "uptime": "92.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.47%",
+    "uptimeWeek": "78.77%",
     "uptimeMonth": "40.52%",
-    "uptimeYear": "92.71%",
+    "uptimeYear": "92.95%",
     "time": 169,
-    "timeDay": 140,
-    "timeWeek": 218,
-    "timeMonth": 180,
+    "timeDay": 207,
+    "timeWeek": 216,
+    "timeMonth": 191,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2023-12-02": 763,
@@ -272,8 +272,7 @@
       "2023-02-12": 585,
       "2023-02-11": 1084,
       "2022-12-10": 445,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -282,7 +281,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "45.29%",
+    "uptime": "45.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -293,7 +292,8 @@
     "timeMonth": 0,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-12-07": 62,
+      "2023-12-08": 63,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -568,8 +568,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1041,
       "2022-12-10": 445,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   }
 ]
