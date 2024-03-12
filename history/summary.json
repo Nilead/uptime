@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 190,
-    "timeWeek": 107,
+    "timeDay": 113,
+    "timeWeek": 114,
     "timeMonth": 113,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "up",
-    "uptime": "61.63%",
+    "uptime": "61.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.88%",
-    "uptimeMonth": "14.54%",
-    "uptimeYear": "25.19%",
+    "uptimeWeek": "57.15%",
+    "uptimeMonth": "17.82%",
+    "uptimeYear": "25.47%",
     "time": 178,
-    "timeDay": 140,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 197,
+    "timeDay": 273,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2024-03-08": 57,
       "2024-03-07": 1440,
@@ -307,8 +307,7 @@
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
-      "2023-03-14": 1440,
-      "2023-03-13": 1440
+      "2023-03-14": 1440
     }
   },
   {
@@ -317,15 +316,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "up",
-    "uptime": "92.41%",
+    "uptime": "92.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.69%",
+    "uptimeWeek": "50.96%",
     "uptimeMonth": "73.27%",
     "uptimeYear": "91.66%",
     "time": 170,
-    "timeDay": 138,
-    "timeWeek": 101,
-    "timeMonth": 174,
+    "timeDay": 221,
+    "timeWeek": 125,
+    "timeMonth": 177,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2024-03-08": 681,
@@ -370,7 +369,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "40.43%",
+    "uptime": "40.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -381,7 +380,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-11": 59,
+      "2024-03-12": 58,
+      "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -744,8 +744,7 @@
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
-      "2023-03-14": 1440,
-      "2023-03-13": 1440
+      "2023-03-14": 1440
     }
   }
 ]
