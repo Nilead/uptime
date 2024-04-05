@@ -6,14 +6,14 @@
     "slug": "nilead-website",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "95.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 123,
-    "timeDay": 310,
-    "timeWeek": 215,
-    "timeMonth": 148,
+    "timeDay": 168,
+    "timeWeek": 216,
+    "timeMonth": 150,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-04-03": 67,
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "up",
-    "uptime": "62.61%",
+    "uptime": "62.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.86%",
-    "uptimeYear": "31.77%",
+    "uptimeMonth": "90.14%",
+    "uptimeYear": "32.04%",
     "time": 179,
-    "timeDay": 266,
-    "timeWeek": 155,
-    "timeMonth": 156,
-    "timeYear": 190,
+    "timeDay": 284,
+    "timeWeek": 159,
+    "timeMonth": 160,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2024-03-08": 57,
       "2024-03-07": 1440,
@@ -284,8 +284,7 @@
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
-      "2023-04-07": 1440,
-      "2023-04-06": 1440
+      "2023-04-07": 1440
     }
   },
   {
@@ -294,15 +293,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "up",
-    "uptime": "92.61%",
+    "uptime": "92.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.43%",
+    "uptimeMonth": "88.72%",
     "uptimeYear": "91.66%",
     "time": 170,
-    "timeDay": 256,
-    "timeWeek": 159,
-    "timeMonth": 155,
+    "timeDay": 273,
+    "timeWeek": 160,
+    "timeMonth": 159,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2024-03-08": 681,
@@ -347,7 +346,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "39.36%",
+    "uptime": "39.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -358,7 +357,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 60,
+      "2024-04-05": 59,
+      "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -721,8 +721,7 @@
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
-      "2023-04-07": 1440,
-      "2023-04-06": 1440
+      "2023-04-07": 1440
     }
   }
 ]
