@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 123,
-    "timeDay": 151,
-    "timeWeek": 225,
-    "timeMonth": 153,
+    "timeDay": 100,
+    "timeWeek": 122,
+    "timeMonth": 151,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-04-03": 67,
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "up",
-    "uptime": "62.84%",
+    "uptime": "62.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.41%",
+    "uptimeYear": "33.69%",
     "time": 180,
-    "timeDay": 261,
-    "timeWeek": 235,
-    "timeMonth": 177,
+    "timeDay": 166,
+    "timeWeek": 220,
+    "timeMonth": 178,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2024-03-08": 57,
@@ -278,8 +278,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   },
   {
@@ -288,15 +287,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "up",
-    "uptime": "92.65%",
+    "uptime": "92.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.66%",
     "time": 171,
-    "timeDay": 220,
-    "timeWeek": 235,
-    "timeMonth": 176,
+    "timeDay": 161,
+    "timeWeek": 222,
+    "timeMonth": 177,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2024-03-08": 681,
@@ -341,7 +340,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "39.10%",
+    "uptime": "39.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -352,7 +351,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-10": 59,
+      "2024-04-11": 60,
+      "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -715,8 +715,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   }
 ]
