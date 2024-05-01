@@ -11,10 +11,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 124,
-    "timeDay": 120,
-    "timeWeek": 239,
-    "timeMonth": 172,
-    "timeYear": 120,
+    "timeDay": 89,
+    "timeWeek": 232,
+    "timeMonth": 175,
+    "timeYear": 121,
     "dailyMinutesDown": {
       "2024-04-03": 67,
       "2023-07-10": 25
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "up",
-    "uptime": "63.53%",
+    "uptime": "63.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.08%",
     "uptimeMonth": "97.26%",
-    "uptimeYear": "38.66%",
+    "uptimeYear": "38.94%",
     "time": 179,
-    "timeDay": 130,
-    "timeWeek": 157,
-    "timeMonth": 165,
+    "timeDay": 162,
+    "timeWeek": 173,
+    "timeMonth": 167,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2024-04-26": 59,
@@ -261,8 +261,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -277,9 +276,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.66%",
     "time": 170,
-    "timeDay": 140,
+    "timeDay": 130,
     "timeWeek": 128,
-    "timeMonth": 156,
+    "timeMonth": 159,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2024-03-08": 681,
@@ -324,18 +323,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "38.27%",
+    "uptime": "38.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 156,
+    "time": 157,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-30": 61,
+      "2024-05-01": 65,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -698,8 +698,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   }
 ]
