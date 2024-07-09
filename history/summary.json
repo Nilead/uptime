@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 129,
-    "timeDay": 308,
-    "timeWeek": 283,
-    "timeMonth": 219,
+    "timeDay": 244,
+    "timeWeek": 278,
+    "timeMonth": 223,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2024-06-05": 19,
       "2024-05-21": 101,
       "2024-05-20": 80,
-      "2024-04-03": 67,
-      "2023-07-10": 25
+      "2024-04-03": 67
     }
   },
   {
@@ -29,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "up",
-    "uptime": "65.90%",
+    "uptime": "65.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "43.51%",
     "time": 178,
-    "timeDay": 261,
-    "timeWeek": 236,
-    "timeMonth": 157,
+    "timeDay": 318,
+    "timeWeek": 232,
+    "timeMonth": 158,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2024-05-30": 141,
@@ -265,9 +264,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.58%",
     "time": 167,
-    "timeDay": 225,
-    "timeWeek": 205,
-    "timeMonth": 153,
+    "timeDay": 341,
+    "timeWeek": 214,
+    "timeMonth": 156,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-05-30": 194,
@@ -309,18 +308,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "35.64%",
+    "uptime": "35.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 171,
+    "time": 158,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-08": 69,
+      "2024-07-09": 67,
+      "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
@@ -683,8 +683,7 @@
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
-      "2023-07-11": 1440,
-      "2023-07-10": 1440
+      "2023-07-11": 1440
     }
   }
 ]
