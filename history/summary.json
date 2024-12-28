@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nilead.com.ico",
     "slug": "nilead-website",
     "status": "down",
-    "uptime": "92.63%",
+    "uptime": "92.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.76%",
+    "uptimeYear": "75.48%",
     "time": 223,
-    "timeDay": 87,
+    "timeDay": 92,
     "timeWeek": 124,
-    "timeMonth": 99,
+    "timeMonth": 100,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-12-27": 77,
+      "2024-12-28": 76,
+      "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -120,16 +121,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "up",
-    "uptime": "64.66%",
+    "uptime": "64.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.71%",
-    "time": 175,
-    "timeDay": 298,
-    "timeWeek": 209,
-    "timeMonth": 192,
-    "timeYear": 175,
+    "uptimeYear": "59.98%",
+    "time": 174,
+    "timeDay": 86,
+    "timeWeek": 196,
+    "timeMonth": 190,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2024-10-31": 63,
       "2024-10-30": 1440,
@@ -280,8 +281,7 @@
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
-      "2023-12-30": 1440,
-      "2023-12-29": 1440
+      "2023-12-30": 1440
     }
   },
   {
@@ -296,8 +296,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.09%",
     "time": 169,
-    "timeDay": 293,
-    "timeWeek": 201,
+    "timeDay": 104,
+    "timeWeek": 197,
     "timeMonth": 180,
     "timeYear": 173,
     "dailyMinutesDown": {
@@ -363,7 +363,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "30.43%",
+    "uptime": "30.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -374,7 +374,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-27": 77,
+      "2024-12-28": 76,
+      "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -737,8 +738,7 @@
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
-      "2023-12-30": 1440,
-      "2023-12-29": 1440
+      "2023-12-30": 1440
     }
   }
 ]
