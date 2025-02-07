@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nilead.com.ico",
     "slug": "nilead-website",
     "status": "down",
-    "uptime": "89.58%",
+    "uptime": "89.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.53%",
+    "uptimeYear": "64.25%",
     "time": 223,
-    "timeDay": 83,
-    "timeWeek": 102,
-    "timeMonth": 112,
+    "timeDay": 100,
+    "timeWeek": 104,
+    "timeMonth": 110,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-02-06": 77,
+      "2025-02-07": 77,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -161,7 +162,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "63.35%",
+    "uptime": "63.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -172,7 +173,8 @@
     "timeMonth": 0,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-02-06": 77,
+      "2025-02-07": 77,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -312,8 +314,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   },
   {
@@ -322,15 +323,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "up",
-    "uptime": "89.81%",
+    "uptime": "89.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.95%",
+    "uptimeMonth": "53.49%",
     "uptimeYear": "82.00%",
     "time": 175,
-    "timeDay": 87,
-    "timeWeek": 396,
-    "timeMonth": 278,
+    "timeDay": 311,
+    "timeWeek": 153,
+    "timeMonth": 280,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-01-21": 291,
@@ -411,7 +412,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "29.41%",
+    "uptime": "29.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +423,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 77,
+      "2025-02-07": 77,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -785,8 +787,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   }
 ]
