@@ -4,17 +4,17 @@
     "url": "https://nilead.com",
     "icon": "https://icons.duckduckgo.com/ip3/nilead.com.ico",
     "slug": "nilead-website",
-    "status": "up",
+    "status": "down",
     "uptime": "86.11%",
-    "uptimeDay": "47.49%",
-    "uptimeWeek": "43.11%",
-    "uptimeMonth": "8.01%",
+    "uptimeDay": "48.50%",
+    "uptimeWeek": "43.35%",
+    "uptimeMonth": "8.07%",
     "uptimeYear": "50.47%",
     "time": 221,
-    "timeDay": 218,
+    "timeDay": 222,
     "timeWeek": 226,
-    "timeMonth": 218,
-    "timeYear": 244,
+    "timeMonth": 217,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2025-04-01": 402,
       "2025-03-31": 861,
@@ -202,8 +202,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 766,
-      "2024-06-05": 19
+      "2024-08-30": 766
     }
   },
   {
@@ -223,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-04-01": 810,
+      "2025-04-01": 833,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -477,7 +476,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "28.15%",
+    "uptime": "28.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -488,7 +487,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 810,
+      "2025-04-01": 833,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
