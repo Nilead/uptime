@@ -4,16 +4,16 @@
     "url": "https://nilead.com",
     "icon": "https://icons.duckduckgo.com/ip3/nilead.com.ico",
     "slug": "nilead-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "1.41%",
+    "uptimeDay": "1.95%",
     "uptimeWeek": "52.98%",
-    "uptimeMonth": "81.75%",
-    "uptimeYear": "98.48%",
+    "uptimeMonth": "81.85%",
+    "uptimeYear": "98.49%",
     "time": 218,
-    "timeDay": 176,
-    "timeWeek": 198,
-    "timeMonth": 217,
+    "timeDay": 166,
+    "timeWeek": 196,
+    "timeMonth": 216,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-04-14": 1142,
@@ -32,7 +32,7 @@
       "2025-04-01": 470,
       "2025-03-31": 861,
       "2025-03-30": 756,
-      "2025-03-29": 366
+      "2025-03-29": 325
     }
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-04-14": 1163,
+      "2025-04-14": 1171,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-14": 1163,
+      "2025-04-14": 1171,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
