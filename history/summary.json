@@ -6,17 +6,17 @@
     "slug": "nilead-website",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "2.73%",
-    "uptimeWeek": "52.28%",
-    "uptimeMonth": "81.75%",
+    "uptimeDay": "22.35%",
+    "uptimeWeek": "52.36%",
+    "uptimeMonth": "81.71%",
     "uptimeYear": "98.48%",
     "time": 219,
-    "timeDay": 193,
+    "timeDay": 208,
     "timeWeek": 199,
-    "timeMonth": 216,
+    "timeMonth": 217,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-04-14": 1212,
+      "2025-04-14": 1204,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 335,
@@ -32,7 +32,7 @@
       "2025-04-01": 470,
       "2025-03-31": 861,
       "2025-03-30": 756,
-      "2025-03-29": 299
+      "2025-03-29": 325
     }
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "60.09%",
+    "uptime": "60.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.42%",
+    "uptimeYear": "52.37%",
     "time": 174,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 175,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-04-14": 1252,
+      "2025-04-15": 87,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -245,8 +246,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.22%",
     "time": 178,
-    "timeDay": 88,
-    "timeWeek": 138,
+    "timeDay": 143,
+    "timeWeek": 141,
     "timeMonth": 175,
     "timeYear": 179,
     "dailyMinutesDown": {
@@ -330,7 +331,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-14": 1252,
+      "2025-04-15": 87,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -693,8 +695,7 @@
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
-      "2024-04-16": 1440,
-      "2024-04-15": 1440
+      "2024-04-16": 1440
     }
   }
 ]
