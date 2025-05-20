@@ -1,7 +1,7 @@
 url: https://logger.mynilead.com:9502/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-20T15:57:09.706Z
+status: up
+code: 200
+responseTime: 317
+lastUpdated: 2025-05-20T16:22:34.441Z
 startTime: 2021-09-08T06:54:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
