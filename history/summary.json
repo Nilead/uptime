@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nilead.com.ico",
     "slug": "nilead-website",
     "status": "down",
-    "uptime": "99.08%",
+    "uptime": "99.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.07%",
-    "uptimeMonth": "76.73%",
-    "uptimeYear": "96.59%",
+    "uptimeWeek": "7.78%",
+    "uptimeMonth": "73.44%",
+    "uptimeYear": "96.32%",
     "time": 226,
-    "timeDay": 82,
-    "timeWeek": 221,
+    "timeDay": 154,
+    "timeWeek": 215,
     "timeMonth": 225,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-05-28": 98,
+      "2025-05-29": 98,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -51,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "58.45%",
+    "uptime": "58.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.24%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "12.16%",
-    "uptimeYear": "41.82%",
+    "uptimeYear": "41.55%",
     "time": 175,
     "timeDay": 0,
-    "timeWeek": 155,
+    "timeWeek": 0,
     "timeMonth": 179,
-    "timeYear": 181,
+    "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-05-28": 98,
+      "2025-05-29": 98,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -278,8 +280,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 744,
-      "2024-05-30": 141,
-      "2024-05-29": 856
+      "2024-05-30": 141
     }
   },
   {
@@ -288,15 +289,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "up",
-    "uptime": "90.46%",
+    "uptime": "90.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.52%",
     "time": 178,
-    "timeDay": 99,
-    "timeWeek": 166,
-    "timeMonth": 182,
+    "timeDay": 203,
+    "timeWeek": 174,
+    "timeMonth": 184,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2025-04-23": 1018,
@@ -361,8 +362,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 871,
-      "2024-05-30": 194,
-      "2024-05-29": 856
+      "2024-05-30": 194
     }
   },
   {
@@ -371,7 +371,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "26.95%",
+    "uptime": "26.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -382,7 +382,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-28": 98,
+      "2025-05-29": 98,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -745,8 +746,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   }
 ]
