@@ -6,14 +6,14 @@
     "slug": "nilead-website",
     "status": "up",
     "uptime": "79.26%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "1.38%",
+    "uptimeDay": "41.13%",
+    "uptimeWeek": "5.88%",
+    "uptimeMonth": "2.73%",
     "uptimeYear": "5.45%",
     "time": 171,
-    "timeDay": 199,
-    "timeWeek": 139,
-    "timeMonth": 128,
+    "timeDay": 241,
+    "timeWeek": 151,
+    "timeMonth": 130,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2026-05-02": 1023,
@@ -370,18 +370,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "46.76%",
+    "uptime": "46.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.96%",
-    "time": 178,
+    "time": 180,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-05-02": 1025,
+      "2026-05-03": 176,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -742,8 +743,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -752,18 +752,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "down",
-    "uptime": "77.73%",
+    "uptime": "77.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.95%",
+    "uptimeYear": "31.84%",
     "time": 196,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2026-05-02": 1025,
+      "2026-05-03": 176,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -1033,7 +1034,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-02": 1025,
+      "2026-05-03": 176,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -1396,8 +1398,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   }
 ]
