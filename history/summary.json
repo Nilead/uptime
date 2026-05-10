@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/nilead.com.ico",
     "slug": "nilead-website",
     "status": "up",
-    "uptime": "79.34%",
+    "uptime": "79.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.54%",
-    "uptimeMonth": "22.44%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "25.75%",
     "uptimeYear": "5.45%",
-    "time": 173,
-    "timeDay": 216,
-    "timeWeek": 252,
+    "time": 172,
+    "timeDay": 79,
+    "timeWeek": 230,
     "timeMonth": 153,
     "timeYear": 160,
     "dailyMinutesDown": {
@@ -370,7 +370,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "46.59%",
+    "uptime": "46.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -381,7 +381,8 @@
     "timeMonth": 0,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-05-09": 170,
+      "2026-05-10": 177,
+      "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
@@ -742,8 +743,7 @@
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
-      "2025-05-11": 1440,
-      "2025-05-10": 1440
+      "2025-05-11": 1440
     }
   },
   {
@@ -752,18 +752,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "down",
-    "uptime": "77.44%",
+    "uptime": "77.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.19%",
+    "uptimeYear": "29.92%",
     "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 201,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2026-05-09": 170,
+      "2026-05-10": 177,
+      "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
@@ -1029,7 +1030,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "21.38%",
+    "uptime": "21.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1040,7 +1041,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-09": 170,
+      "2026-05-10": 177,
+      "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
@@ -1403,8 +1405,7 @@
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
-      "2025-05-11": 1440,
-      "2025-05-10": 1440
+      "2025-05-11": 1440
     }
   }
 ]
