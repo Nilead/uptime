@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nilead.com.ico",
     "slug": "nilead-website",
     "status": "up",
-    "uptime": "79.41%",
+    "uptime": "79.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.26%",
+    "uptimeMonth": "45.47%",
     "uptimeYear": "5.45%",
-    "time": 173,
-    "timeDay": 250,
-    "timeWeek": 145,
-    "timeMonth": 158,
+    "time": 172,
+    "timeDay": 71,
+    "timeWeek": 124,
+    "timeMonth": 153,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2026-05-02": 1023,
@@ -370,7 +370,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.mynilead.com.ico",
     "slug": "nilead-logger",
     "status": "down",
-    "uptime": "46.42%",
+    "uptime": "46.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -381,7 +381,8 @@
     "timeMonth": 0,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-05-15": 212,
+      "2026-05-16": 175,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -742,8 +743,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1416,
       "2025-05-20": 944,
-      "2025-05-17": 117,
-      "2025-05-16": 1440
+      "2025-05-17": 117
     }
   },
   {
@@ -752,18 +752,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.mynilead.com.ico",
     "slug": "nilead-tracker",
     "status": "down",
-    "uptime": "77.17%",
+    "uptime": "77.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.54%",
+    "uptimeYear": "28.28%",
     "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-05-15": 212,
+      "2026-05-16": 175,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1035,7 +1036,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.mynilead.com.ico",
     "slug": "nilead-monitor",
     "status": "down",
-    "uptime": "21.30%",
+    "uptime": "21.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1046,7 +1047,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 212,
+      "2026-05-16": 175,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1409,8 +1411,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   }
 ]
